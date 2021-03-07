@@ -4,13 +4,13 @@
 
 <p align="center">
  <a href="#introducao">Introdução</a> •
- <a href="#contato">Contato</a> •
  <a href="#projeto">Projeto</a> •
  <a href="#tecnologias">Tecnologias Utilizadas</a> • 
  <a href="#execucao">Como Executar</a> • 
  <a href="#documentacao">documentação</a> • 
  <a href="#licenca">Licença</a> •
- <a href="#autor">Autor</a>
+ <a href="#autor">Autor</a> •
+ <a href="#contato">Contato</a> 
 </p>
 
 --------------------------- 
@@ -22,10 +22,6 @@
 <p align="justify"> Primeiramente, olá me chamo Gabriel Kenji Poli Ozaki, sou um estudante de Ciência da Computação e estou querendo atuar na área de Desenvolvimento Web. </p>
 
 <p align="justify"> Para uma descrição melhor sobre minha pessoa, acesse o README em meu perfil do GITHUB. Nele contém minha história, tecnologias nas quais já programei e ambições pessoais. </p>
-
-## :mailbox_with_mail: <strong id="contato"> Redes Sociais para Contato: </strong>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Kenji_Poli_Ozaki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wdkenji/)  [![Mail Badge](https://img.shields.io/badge/-@biel.kenjii-C63381?style=flat&labelColor=C63381&logo=instagram&logoColor=white)](https://www.instagram.com/biel.kenjii/)  [![Mail Badge](https://img.shields.io/badge/-g.kenjiJS-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:g.kenjiJS@gmail.com)
 
 ## :computer: <strong id="projeto"> Projeto </strong>
 
@@ -90,6 +86,25 @@ Basta acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:300
 ## :closed_book: <strong id="licenca"> Licença </strong>
 
 Esse projeto esta sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+<br>
+
+## :construction_worker: <strong> Autor </strong>
+
+<a href="https://github.com/WD-GabrielKenji">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77596710?s=400&u=70de2ffcac45b9e0db00c828fe785d4a76ac3f65&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Gabriel Kenji Poli Ozaki</b></sub></a> <a href="https://github.com/WD-GabrielKenji" title="Perfil Github"> :star2: 
+</a>
+
+
+Feito com ❤️ por Gabriel Kenji 👋🏽
+
+### :mailbox_with_mail: <strong id="contato"> Redes Sociais para Contato: </strong>
+
+<p> Entre em contato, atraves desta redes sociais: </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Kenji_Poli_Ozaki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wdkenji/)  [![Mail Badge](https://img.shields.io/badge/-@biel.kenjii-C63381?style=flat&labelColor=C63381&logo=instagram&logoColor=white)](https://www.instagram.com/biel.kenjii/)  [![Mail Badge](https://img.shields.io/badge/-g.kenjiJS-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:g.kenjiJS@gmail.com)
 
 <br>
 
