@@ -14,6 +14,8 @@
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Next JS](https://img.shields.io/badge/Nextjs-blueviolet.svg?style=for-the-badge&amp;logo=Next.js&amp;labelColor=000000&amp;logoWidth=20")](#)
 
+## :book: <strong> Detalhes sobre o projeto
+
 <details>
 <summary>
   Descrição do projeto
