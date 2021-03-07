@@ -7,7 +7,8 @@
  <a href="#projeto">Projeto</a> •
  <a href="#tecnologias">Tecnologias Utilizadas</a> • 
  <a href="#execucao">Como Executar</a> • 
- <a href="#documentacao">documentação</a> • 
+ <a href="#documentacao">Documentação</a> • 
+ <a href="#construcao">Em Construção</a> •
  <a href="#licenca">Licença</a> •
  <a href="#autor">Autor</a> •
  <a href="#contato">Contato</a> 
@@ -26,8 +27,6 @@
 ## :computer: <strong id="projeto"> Projeto </strong>
 
 <p align="justify"> Esse projeto se baseia na técnica de pomodoro, onde a técnica consiste na utilização de um cronometro para dividir o tempo em períodos de 25 minutos de produção, que são separados por breves intervalos, mas o que difere esta aplicação sobre a técnica original, é que trocamos os intervalos e no lugar substituímos por desafios aleatórias que beneficiam a saúde do usuário. </p>
-
-<p> Sabemos... </p>
 
 ## :rocket: <Strong id="tecnologias"> Tecnologias Utilizadas </Strong>
 
@@ -56,7 +55,7 @@ Basta acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:300
 </pre>
 
 
-## :book: <strong id="documentacao"> Detalhes sobre o projeto </strong>
+## :book: <strong id="documentacao"> Detalhes aprofundados sobre o projeto </strong>
 
 <details>
 <summary>
@@ -85,11 +84,23 @@ Basta acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:300
 
 </details>
 
+## :construction: <strong id="construcao"> Em construção </strong>
+
+<p> Elementos que estão sendo preparados para serem incrementados dentro dessa aplicação: </p>
+
+<ul>
+    <li> Deixar a aplicação mais responsiva; </li>
+    <li> Tornar adaptativo ao mobile; </li>
+    <li> Adicionar funcionabilidade PWA; </li>
+    <li> Acrescentar o tema Dark ao visual; </li>
+    <li> Acrescentar um score de leaderboards para os usuarios que estão utilizando a aplicação; </li>
+</ul>
+
 ## :closed_book: <strong id="licenca"> Licença </strong>
 
 Esse projeto esta sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-## :construction_worker: <strong id="autor"> Autor </strong>
+## :boy: <strong id="autor"> Autor </strong>
 
 <a href="https://github.com/WD-GabrielKenji">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77596710?s=400&u=70de2ffcac45b9e0db00c828fe785d4a76ac3f65&v=4" width="100px;" alt=""/>
