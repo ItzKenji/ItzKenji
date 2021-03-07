@@ -25,7 +25,9 @@
 
 ## :computer: <strong id="projeto"> Projeto </strong>
 
-<p align="justify"> Esse projeto se baseia na técnica de pomodoro, onde a técnica consiste na utilização de um cronometro para dividir o trabalho em períodos de 25 minutos de produção, separados por breves intervalos, mas o diferencial sobre essa técnica, é que em nossa aplicação trocamos os intervalos e no lugar substituímos por desafios aleatórias que beneficiam a saúde do usuário. </p>
+<p align="justify"> Esse projeto se baseia na técnica de pomodoro, onde a técnica consiste na utilização de um cronometro para dividir o tempo em períodos de 25 minutos de produção, que são separados por breves intervalos, mas o que difere esta aplicação sobre a técnica original, é que trocamos os intervalos e no lugar substituímos por desafios aleatórias que beneficiam a saúde do usuário. </p>
+
+<p> Sabemos... </p>
 
 ## :rocket: <Strong id="tecnologias"> Tecnologias Utilizadas </Strong>
 
@@ -89,7 +91,7 @@ Esse projeto esta sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para 
 
 <br>
 
-## :construction_worker: <strong> Autor </strong>
+## :construction_worker: <strong id="autor"> Autor </strong>
 
 <a href="https://github.com/WD-GabrielKenji">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77596710?s=400&u=70de2ffcac45b9e0db00c828fe785d4a76ac3f65&v=4" width="100px;" alt=""/>
