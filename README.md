@@ -8,7 +8,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Kenji_Poli_Ozaki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wdkenji/) [![Mail Badge](https://img.shields.io/badge/-@biel.kenjii-C63381?style=flat&labelColor=C63381&logo=instagram&logoColor=white)](https://www.instagram.com/biel.kenjii/) [![Mail Badge](https://img.shields.io/badge/-g.kenjiJS-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:g.kenjiJS@gmail.com)
 
-## <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> <Strong> Tecnologias e Linguagens Utilizadas </Strong>
+## :computer: <strong> Projeto </strong>
+
+<p align="justify"> Esse projeto se baseia na técnica de pomodoro, onde a técnica consiste na utilização de um cronometro para dividir o trabalho em períodos de 25 minutos de produção, separados por breves intervalos, mas o diferencial sobre essa técnica é que em nossa aplicação trocamos os intervalos e no lugar substituímos por desafios aleatórias que beneficiam a saúde do usuário. </p>
+
+## :rocket: <Strong> Tecnologias e Linguagens Utilizadas </Strong>
 
 <p align="justify"> Este projeto foi desenvolvido utilizando as seguintes tecnologias: </p>
 
@@ -23,7 +27,7 @@
 
 <br>
 
-<p align="justify"> Esta aplicação foi desenvolvida, através de um <strong>evento online</strong> feito pela <strong>Rocketseat</strong>, chamado de <strong> NLW (Next Level Week)</strong>. A quarta edição do NLW na <strong>trilha de React</strong>, desenvolvemos a aplicação que teve como nome inicial, chamado de <strong>“move.it"</strong>. Ideia desse projeto se baseia na técnica de pomodoro criado por Francesco Cirillo no final dos anos 1980, onde a técnica consiste na    <strong>utilização de um cronometro para dividir o trabalho em períodos de 25 minutos de produção, separados por breves intervalos, mas o diferencial sobre essa técnica é que nossa aplicação consiste na trocar dos intervalos no lugar de desafios aleatórias que beneficiam a saúde do usuário.</strong> </p>
+<p align="justify"> Esta aplicação foi desenvolvida, através de um <strong>evento online</strong> feito pela <strong>Rocketseat</strong>, chamado de <strong> NLW (Next Level Week)</strong>. A quarta edição do NLW na <strong>trilha de React</strong>, desenvolvemos a aplicação que teve como nome inicial, chamado de <strong>“move.it"</strong>. Ideia desse projeto se baseia na técnica de pomodoro criado por Francesco Cirillo no final dos anos 1980, onde a técnica consiste na    <strong>utilização de um cronometro para dividir o trabalho em períodos de 25 minutos de produção, separados por breves intervalos, mas o diferencial sobre essa técnica é que em nossa aplicação trocamos os intervalos e no lugar substituímos por desafios aleatórias que beneficiam a saúde do usuário.</strong> </p>
 
 <p align="justify"> Nela utilizamos o <strong>contexto de desenvolvimento de uma API REST</strong>, permitindo com que nossa aplicação tenha acessos a <strong>múltiplos clientes distintos</strong>, que possam utilizar, tanto dispositivos desktops, como dispositivos mobiles no mesmo servidor, onde devolve um response no formato JSON, de uma maneira que os dois compreendam para realizar a transformação da interface até a visualização do usuário. Utilizamos a <strong>biblioteca React</strong>, para além de ajudar o browser nas criações da interface, <strong>deixarmos a aplicação mais fluida ou flexível para consumir o HTML, CSS e JS</strong>, e como <strong>ambiente de desenvolvimento</strong> usamos o <strong>Node.js</strong> para construir a aplicação utilizando React. </p>
 
