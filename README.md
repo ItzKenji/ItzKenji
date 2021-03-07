@@ -7,8 +7,9 @@
  <a href="#contato">Contato</a> •
  <a href="#projeto">Projeto</a> •
  <a href="#tecnologias">Tecnologias Utilizadas</a> • 
- <a href="#contribuicao">Como Executar</a> • 
- <a href="#licenc-a">Licença</a> • 
+ <a href="#execucao">Como Executar</a> • 
+ <a href="#documentacao">documentação</a> • 
+ <a href="#licenca">Licença</a> •
  <a href="#autor">Autor</a>
 </p>
 
@@ -36,7 +37,7 @@
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org/)  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)  [![Next JS](https://img.shields.io/badge/Nextjs-blueviolet.svg?style=for-the-badge&amp;logo=Next.js&amp;labelColor=000000&amp;logoWidth=20")](https://nextjs.org/)
 
-## :runner: <strong> Como executar o projeto </strong>
+## :runner: <strong id="execucao"> Como executar o projeto </strong>
 
 [![NPM Badge](https://img.shields.io/badge/npm-6.14.11-brightgreen)](https://nodejs.org/en/download/) [![Yarn Badge](https://img.shields.io/badge/yarn-1.22.5-brightgreen)](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
 
@@ -57,7 +58,7 @@ Basta acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:300
 </pre>
 
 
-## :book: <strong> Detalhes sobre o projeto </strong>
+## :book: <strong id="documentacao"> Detalhes sobre o projeto </strong>
 
 <details>
 <summary>
@@ -85,6 +86,10 @@ Basta acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:300
 <a href="https://github.com/WD-GabrielKenji/NLW4-TrilhaDeReact"> Acesse aqui o link do outro Repositório </a>
 
 </details>
+
+## :closed_book: <strong id="licenca"> Licença </strong>
+
+Esse projeto esta sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 <br>
 
