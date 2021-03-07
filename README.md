@@ -22,17 +22,17 @@
 
 [![NPM Badge](https://img.shields.io/badge/npm-6.14.11-brightgreen)](https://nodejs.org/en/download/) [![Yarn Badge](https://img.shields.io/badge/yarn-1.22.5-brightgreen)](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
 
-```
+```bash
 # Fazer o clone do Repositorio.
->> Git Clone: https://github.com/WD-GabrielKenji/NLW4-TrilhaDeReact.git
+$ Git Clone: https://github.com/WD-GabrielKenji/NLW4-TrilhaDeReact.git
 ```
 
-``` 
-#Instalar as dependencias do yarn: 
->> yarn install
+```bash
+# Instalar as dependencias do yarn: 
+$ yarn install
 
 #Iniciar o servidor yarn dev
->> yarn dev
+$ yarn dev
 ```
 <pre>
 Acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:3000</code></a> no seu Browser
