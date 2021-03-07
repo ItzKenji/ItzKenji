@@ -4,7 +4,7 @@
 
 <p align="justify"> Para uma descrição melhor sobre minha pessoa, acesse o README em meu perfil do GITHUB. Nele contém minha história, tecnologias nas quais já programei e ambições pessoais. </p>
 
-<h3 align="center"> :mailbox_with_mail: <Strong> Redes Sociais para Contato: </Strong> </h3>
+### <h3 align="center"> :mailbox_with_mail: <Strong> Redes Sociais para Contato: </Strong> </h3>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<h3 align="center"> <Strong> Tecnologias e Linguagens Utilizadas: </Strong> </h3>
+### <h3 align="center"> <Strong> Tecnologias e Linguagens Utilizadas: </Strong> </h3>
 
 <p align="center"> Este projeto foi desenvolvido utilizando as seguintes tecnologias </p>
 
