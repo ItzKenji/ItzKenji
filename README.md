@@ -89,8 +89,6 @@ Basta acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:300
 
 Esse projeto esta sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-<br>
-
 ## :construction_worker: <strong id="autor"> Autor </strong>
 
 <a href="https://github.com/WD-GabrielKenji">
@@ -107,7 +105,5 @@ Feito com ❤️ por Gabriel Kenji 👋🏽
 <p> Entre em contato, atraves desta redes sociais: </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Kenji_Poli_Ozaki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wdkenji/)  [![Mail Badge](https://img.shields.io/badge/-@biel.kenjii-C63381?style=flat&labelColor=C63381&logo=instagram&logoColor=white)](https://www.instagram.com/biel.kenjii/)  [![Mail Badge](https://img.shields.io/badge/-g.kenjiJS-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:g.kenjiJS@gmail.com)
-
-<br>
 
 [![GitHub followers](https://img.shields.io/github/followers/WD-GabrielKenji.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/WD-GabrielKenji)
