@@ -24,18 +24,18 @@
 
 ```bash
 # Fazer o clone do Repositorio.
-$ Git Clone: https://github.com/WD-GabrielKenji/NLW4-TrilhaDeReact.git
+>> Git Clone: https://github.com/WD-GabrielKenji/NLW4-TrilhaDeReact.git
 ```
 
 ```bash
-# Instalar as dependencias do yarn: 
-$ yarn install
+#Instalar as dependencias do yarn: 
+>> yarn install
 
 #Iniciar o servidor yarn dev
-$ yarn dev
+>> yarn dev
 ```
 <pre>
-Acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:3000</code></a> no seu Browser
+Basta acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:3000</code></a> no seu Browser e usufruir da aplicação
 </pre>
 
 
