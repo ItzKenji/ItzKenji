@@ -18,16 +18,26 @@
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org/)  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)  [![Next JS](https://img.shields.io/badge/Nextjs-blueviolet.svg?style=for-the-badge&amp;logo=Next.js&amp;labelColor=000000&amp;logoWidth=20")](https://nextjs.org/)
 
-## <strong> Como executar </strong>
+## :runner: <strong> Como executar </strong>
 
 [![NPM Badge](https://img.shields.io/badge/npm-6.14.11-brightgreen)](https://nodejs.org/en/download/) [![Yarn Badge](https://img.shields.io/badge/yarn-1.22.5-brightgreen)](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
 
- <ul>
-    <li> Fazer o <strong>clone do Repositorio</strong> </li>
-    <li> <strong>Instalar as dependencias</strong> com o yarn: <strong> yarn create next-app moveit-app</strong> </li>
-    <li> <strong>Iniciar o servidor</strong> com o: <strong>yarn dev</strong> </li>
-    <li> Acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:3000</code></a> no seu Browser </li>
- </ul>
+```
+# Fazer o clone do Repositorio.
+>> Git Clone: https://github.com/WD-GabrielKenji/NLW4-TrilhaDeReact.git
+```
+
+``` 
+#Instalar as dependencias do yarn: 
+>> yarn install
+
+#Iniciar o servidor yarn dev
+>> yarn dev
+```
+<pre>
+Acessar <a href="http://localhost:3000" rel="nofollow"><code>localhost:3000</code></a> no seu Browser
+</pre>
+
 
 ## :book: <strong> Detalhes sobre o projeto </strong>
 
