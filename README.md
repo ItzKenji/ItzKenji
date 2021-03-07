@@ -7,7 +7,7 @@
 <h3> 
 <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 
 <strong> Redes Sociais para Contato: </strong>
-</h3>
+</h3> ==$0
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Kenji_Poli_Ozaki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wdkenji/) [![Mail Badge](https://img.shields.io/badge/-@biel.kenjii-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/biel.kenjii/) [![Mail Badge](https://img.shields.io/badge/-g.kenjiJS-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:g.kenjiJS@gmail.com)
 
