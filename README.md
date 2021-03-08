@@ -28,7 +28,7 @@
 
 <p align="justify"> Esse projeto se baseia na técnica de pomodoro, onde a técnica consiste na utilização de um cronometro para dividir o tempo em períodos de 25 minutos de produção, que são separados por breves intervalos, mas o que difere esta aplicação sobre a técnica original, é que trocamos os intervalos e no lugar substituímos por desafios aleatórias que beneficiam a saúde do usuário. </p>
 
-### ⚙️ Funcionabilidades
+## ⚙️ Funcionabilidades
 
 - [x] ...
 - [x] ...
