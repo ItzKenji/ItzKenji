@@ -1,6 +1,8 @@
+<div font-family="sans-serif">
+
 ## :rocket: <strong> Perfil: </strong>
 
-<p align="justify" font-size="40px">Olá, me chamo Gabriel Kenji Poli Ozaki, sou estudante de Ciência da Computação e pretendo me profissionalizar na área de Desenvolvimento Web! Atingindo sempre meus objetivos e entregando sempre resultados de excelentes qualidades! </p>
+<p align="justify">Olá, me chamo Gabriel Kenji Poli Ozaki, sou estudante de Ciência da Computação e pretendo me profissionalizar na área de Desenvolvimento Web! Atingindo sempre meus objetivos e entregando sempre resultados de excelentes qualidades! </p>
 
 <div align="right">
 
@@ -64,4 +66,4 @@
 
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-
+</div>
