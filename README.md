@@ -1,10 +1,11 @@
 ## :rocket: <strong> Profile Statement </strong>
 
-<p align="justify">Olá, me chamo Gabriel Kenji Poli Ozaki, sou estudante de Ciência da Computação e pretendo me profissionalizar na área de Desenvolvimento Web!</p>
+<p align="justify">Olá, me chamo Gabriel Kenji Poli Ozaki, sou estudante de Ciência da Computação e pretendo me profissionalizar na área de Desenvolvimento Web! Atingindo sempre meus objetivos e entregando sempre resultados de excelentes qualidades! </p>
 
 <div align="right">
 
 ### 📫 Entre em Contato:
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Kenji_Poli_Ozaki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wdkenji/)  [![Mail Badge](https://img.shields.io/badge/-@biel.kenjii-C63381?style=flat&labelColor=C63381&logo=instagram&logoColor=white)](https://www.instagram.com/biel.kenjii/)  [![Mail Badge](https://img.shields.io/badge/-g.kenjiJS-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:g.kenjiJS@gmail.com)
 
@@ -17,23 +18,23 @@
 
 <br>
 
-<p align="jusfity"> loren150 </p>
+<p align="jusfity"> ... </p>
     
 </details>
 
 ## 📖 Breve Descrição:
 
-- :boy: Me chamo Gabriel Kenji Poli Ozaki, sou computer scientist e tenho 20 anos.
+- :boy: Meu nome é Gabriel Kenji Poli Ozaki, sou computer scientist e tenho 20 anos.
 
 - 🤓 Estou cursando Ciência da Computação na Universidade São Judas Tadeu - Butantã, São Paulo;
 
 - 🖥️ Introduzi na área de Desenvolvimento Web no começo de 2020 e desde então venho focado em aprimorar meus aprendizados, para tornar-se um Web Developer.
 
-- 📍 São Paulo - Zona Sudoeste.
+- 📍 Localidade: São Paulo - Zona Sudoeste.
 
-- 📲 Telefone de Contato: +55 (011) 99466-8097
+- 📲 Telefone para Contato: +55 (011) 99466-8097
 
-- 💬 Descriptive Phrase: knowing the hammer every problem turns into a nail!
+- 💬 Frase Descritiva: Conhecendo o martelo, todo problema se transforma em prego!
 
 ## <strong> Tecnologias e Linguagens: </strong>
 
