@@ -28,12 +28,6 @@
 
 <p align="justify"> Esse projeto se baseia na técnica de pomodoro, onde a técnica consiste na utilização de um cronometro para dividir o tempo em períodos de 25 minutos de produção, que são separados por breves intervalos, mas o que difere esta aplicação sobre a técnica original, é que trocamos os intervalos e no lugar substituímos por desafios aleatórias que beneficiam a saúde do usuário. </p>
 
-## ⚙️ Funcionabilidades
-
-- [x] ...
-- [x] ...
-- [ ] ...
-- [ ] ...
 ## :rocket: <Strong id="tecnologias"> Tecnologias Utilizadas </Strong>
 
 <p align="justify"> Este projeto foi desenvolvido utilizando as seguintes tecnologias: </p>
@@ -124,8 +118,6 @@ Agora basta acessar <a href="http://localhost:3000" rel="nofollow"><code>localho
 >> vercel
 ```
 
-<a href="https://github.com/WD-GabrielKenji/NLW4-TrilhaDeReact" align="right"> Acesse aqui o link do outro Repositório </a>
-
 </details>
 
 ## :construction: <strong id="construcao"> Em construção </strong>
@@ -155,11 +147,11 @@ Esse projeto esta sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mai
 </a>
 
 
-Feito com ❤️ por Gabriel Kenji 👋🏽
+Feito de ❤️ por Gabriel Kenji 👋🏽
 
 ### :mailbox_with_mail: <strong id="contato"> Redes Sociais para Contato: </strong>
 
-<p> Entre em contato, atraves desta redes sociais: </p>
+<p> Entre em contato, atraves destas redes sociais: </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Kenji_Poli_Ozaki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wdkenji/)  [![Mail Badge](https://img.shields.io/badge/-@biel.kenjii-C63381?style=flat&labelColor=C63381&logo=instagram&logoColor=white)](https://www.instagram.com/biel.kenjii/)  [![Mail Badge](https://img.shields.io/badge/-g.kenjiJS-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:g.kenjiJS@gmail.com)
 
