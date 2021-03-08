@@ -1,4 +1,4 @@
-## :rocket: <strong> Profile Statement </strong>
+## :sparkles: <strong> Profile Statement </strong>
 
 <p align="justify">Olá, me chamo Gabriel Kenji Poli Ozaki, sou estudante de Ciência da Computação e pretendo me profissionalizar na área de Desenvolvimento Web! Atingindo sempre meus objetivos e entregando sempre resultados de excelentes qualidades! </p>
 
@@ -36,11 +36,13 @@
 
 - 💬 Frase Descritiva: Conhecendo o martelo, todo problema se transforma em prego!
 
-## <strong> Tecnologias e Linguagens: </strong>
+## :rocket: <strong> Tecnologias e Linguagens: </strong>
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
+
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bootstrap/bootstrap.png"/>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 
@@ -49,8 +51,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/javascript/javascript.png"/>
 
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png"/>
-
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bootstrap/bootstrap.png"/>
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png"/>
 
@@ -63,3 +63,5 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+
