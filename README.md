@@ -1,4 +1,4 @@
-## :sparkles: <strong> Profile Statement </strong>
+## :rocket: <strong> Perfil: </strong>
 
 <p align="justify">Olá, me chamo Gabriel Kenji Poli Ozaki, sou estudante de Ciência da Computação e pretendo me profissionalizar na área de Desenvolvimento Web! Atingindo sempre meus objetivos e entregando sempre resultados de excelentes qualidades! </p>
 
@@ -22,7 +22,7 @@
     
 </details>
 
-## 📖 Breve Descrição:
+## 📖 Descrição Breve:
 
 - :boy: Meu nome é Gabriel Kenji Poli Ozaki, sou computer scientist e tenho 20 anos.
 
@@ -36,7 +36,7 @@
 
 - 💬 Frase Descritiva: Conhecendo o martelo, todo problema se transforma em prego!
 
-## :rocket: <strong> Tecnologias e Linguagens: </strong>
+## :sparkles: <strong> Tecnologias e Linguagens: </strong>
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 
