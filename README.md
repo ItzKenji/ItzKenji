@@ -15,11 +15,17 @@
     Saiba mais...
 </summary>
 
-<p align="jusfity"> Gabriel Kenji Poli Ozaki, estudante de Ciência da Computação na Universidade São Judas Tadeu, é uma pessoa muito dedicada com suas metas e ambiciosa por seus sonhos. Uma palavra que não existe em seu vocabulário é “Desistir”. Seu bom humor e positividade ajudam não só a si mesmo, mas também a todos que estão ao seu redor. </p>
+<br>
 
-<p align="justify"> Começou com Desenvolvimento Web no início de 2020 e possui conhecimentos sobre as linguagens HTML5, CSS, JavaScript, TypeScript, também possui conhecimentos sobre os frameworks Bootstrap, React e Angula, juntamente com os softwares Node.js e Next.js, e o banco de dados do MongoDB. </p>
+<pre align="justify">
 
-<p align="justify"> Além disso, as Soft Skills que se destacam em Gabriel são seu pensamento crítico, comunicação e organização, tem facilidade em trabalhos em equipe e individual. Sempre em foco de cumprir o objetivo desejado, está disposto a aprender coisas novas e ajudar no desenvolvimento do grupo. </p>
+Gabriel Kenji Poli Ozaki, estudante de Ciência da Computação na Universidade São Judas Tadeu, é uma pessoa muito dedicada com suas metas e ambiciosa por seus sonhos. Uma palavra que não existe em seu vocabulário é “Desistir”. Seu bom humor e positividade ajudam não só a si mesmo, mas também a todos que estão ao seu redor.
+
+Começou com Desenvolvimento Web no início de 2020 e possui conhecimentos sobre as linguagens HTML5, CSS, JavaScript, TypeScript, também possui conhecimentos sobre os frameworks Bootstrap, React e Angula, juntamente com os softwares Node.js e Next.js, e o banco de dados do MongoDB.
+
+Além disso, as Soft Skills que se destacam em Gabriel são seu pensamento crítico, comunicação e organização, tem facilidade em trabalhos em equipe e individual. Sempre em foco de cumprir o objetivo desejado, está disposto a aprender coisas novas e ajudar no desenvolvimento do grupo.
+
+</pre>
     
 </details>
 
