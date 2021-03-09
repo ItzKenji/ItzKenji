@@ -21,7 +21,7 @@
     
 </details>
 
-## 📖 Descrição Breve:
+## 📖 Breve Descrição:
 
 - :boy: Meu nome é Gabriel Kenji Poli Ozaki, sou computer scientist e tenho 20 anos.
 
