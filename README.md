@@ -69,7 +69,24 @@
 
 <br><br>
 
-## :star: Github Status:
+## :star: GitHub Stats:
+
+<details>
+
+<summary>
+    <strong>Status do GitHub...</strong>
+</summary>
 
 ![Estatísticas do GitHub de Gabriel Kenji](https://github-readme-stats.vercel.app/api?username=wd-gabrielkenji&show_icons=true&theme=tokyonight&count_private=true)
 
+</details>
+
+<details>
+
+<summary>
+    <strong>Estatísticas das Linguagens...</strong>
+</summary>
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wd-gabrielkenji&layout=compact)
+
+</details>
