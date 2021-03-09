@@ -90,3 +90,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wd-gabrielkenji&layout=compact)
 
 </details>
+
+## :trophy: Principais Projetos:
+
+<p> A adicionar... </p>
